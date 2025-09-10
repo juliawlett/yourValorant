@@ -1,11 +1,13 @@
 import './App.css';
-import { ToastContainer, toast } from 'react-toastify';
-import AgentsList from './pages/AgentsList/index'
+import { ToastContainer } from 'react-toastify';
+
+import Home from './pages/Home';
 
 function App() {
   return (
     <div className="App">
-      <AgentsList />
+      <Home />
+      
       <ToastContainer />
     </div>
   );

@@ -10,8 +10,10 @@
     "axios": "^1.11.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-multi-carousel": "^2.8.6",
     "react-scripts": "5.0.1",
     "react-toastify": "^11.0.5",
+    "react-tooltip": "^5.29.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
